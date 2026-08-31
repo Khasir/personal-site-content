@@ -47,7 +47,7 @@ In this philosophy, projects are exclusive efforts prioritizing financial stabil
 
 Nonprofits, educational institutions and for-profit corporations tend to fall into this category. On the nonprofit and educational side, we have the [Mozilla Foundation](https://www.mozillafoundation.org/), and the programs and research hosted and published by the University of Toronto’s [School of Cities](https://schoolofcities.utoronto.ca/)[^6] as examples. On the corporate side, we have [Miovision](https://miovision.com/),[^7] [Palantir](https://www.palantir.com/), [YouGov](https://yougov.com/) and Google’s [Sidewalk Labs](https://web.archive.org/web/20200508015227/https://www.sidewalklabs.com/)[^8] all being mansions. [DemocracyXChange](https://www.democracyxchange.org/) (originally [Democracy Kit](https://opendemocracy.ca/))[^9] and [Code for Canada](https://codefor.ca/) are two examples of mansions that have arisen from Civic Tech Toronto.
 
-{% include figure.html src="/content/images/civic-tech-philosophies.png" alt="Civic tech philosophies: Venn diagram of cathedrals, parlours and mansions." %}
+{% include figure.html src="/content/images/civic-tech-philosophies-transparent.png" full="/content/images/civic-tech-philosophies.png" alt="Civic tech philosophies: Venn diagram of cathedrals, parlours and mansions." %}
 
 ## civic tech toronto encourages cathedrals
 
