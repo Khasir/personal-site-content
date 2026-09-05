@@ -1,8 +1,9 @@
 ---
-title: 
-subtitle: 
-post_date: 
-modified_date: 
+title:
+subtitle:
+link_preview:
+post_date:
+modified_date:
 tags:
 hidden: false
 ---

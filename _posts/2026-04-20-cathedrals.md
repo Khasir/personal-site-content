@@ -7,6 +7,7 @@ tags:
   - reflections
   - civic-tech
 hidden: false
+link_preview: Understanding the philosophies of different projects at Civic Tech Toronto. But mostly cathedrals.
 ---
 
 [Civic Tech Toronto](https://civictech.ca/) (CTTO) as an organization is structured around two main things: speakers and projects. That said, speakers bring with them their own projects\* to present. So really, the essence of Civic Tech Toronto can be boiled down to civic tech projects.

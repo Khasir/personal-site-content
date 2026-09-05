@@ -6,6 +6,7 @@ modified_date: 2026-09-05
 tags:
   - reflections
 hidden: false
+link_preview: In February, I went to a concert by ((( O ))), the self-proclaimed unpronounceable force who releases sundrops every year.
 ---
 In February, I went to a concert by <span style="font-size: 11px;">(</span><span style="font-size: 15px;">(</span>( O )<span style="font-size: 15px;">)</span><span style="font-size: 11px;">)</span>, the self-proclaimed unpronounceable force who releases sundrops every year.[^1] By 2032, she plans to have published her complete collection of 12 sundrops. Her sundrops usually come out on August 27, her birthday, but the next one has been [delayed](https://www.instagram.com/reel/Dccs8ftK6ge/?utm_source=ig_web_copy_link&igsi=MzRlODBiNWFlZA==)—just like this blog post, which I originally planned to release ~~a few months ago~~ a few days ago.
 

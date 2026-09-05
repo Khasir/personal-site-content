@@ -6,6 +6,7 @@ modified_date: 2026-08-31
 tags:
   - reflections
 hidden: false
+link_preview: Feel free to try it now—I can wait.
 ---
 
 Feel free to try it now—I can wait.
