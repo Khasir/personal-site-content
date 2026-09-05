@@ -26,7 +26,7 @@ Back in 1917, three young children—Lúcia, Francisco, and Jacinta—in the Por
 
 Months passed. It was now the sixth month, October 1917. In the rain, thousands of people from across the country gathered to bear witness to the rumour of a prophesied miracle. The crowd held its collective breath in rapt anticipation. The Virgin Mary appeared to the three children at noon to assure them of the impending miracle.
 
-{% include figure.html src="/content/images/crowd-fatima.png" alt="The crowd at Fátima, Oct 13, 1917" caption='The crowd at Fátima on October 13, 1917.[^1]' %}
+{% include figure.html src="/content/images/crowd-fatima.png" alt="The crowd at Fátima, Oct 13, 1917" caption='*The crowd at Fátima on October 13, 1917.*[^1]' %}
 
 Then suddenly—
 
@@ -52,13 +52,13 @@ The seventh installation of the critically acclaimed *Civilization* series of st
 
 The original *Civilization* was released in 1991 for the MS-DOS personal computer, when only about one in five families had a computer at home. I wasn’t even born yet. At the time, the *Computer Gaming World* magazine hailed it as “[more addictive than crack](https://web.archive.org/web/20131203114048/http://www.cgwmuseum.org/galleries/issues/cgw_95.pdf#page=121).”
 
-{% include figure.html src="/content/images/civ-map.webp" caption="Looking at the map in *Sid Meier's Civilization*.[^4]" %}
+{% include figure.html src="/content/images/civ-map.webp" caption="*Looking at the map in* Sid Meier's Civilization.[^4]" %}
 
 One of the first things you do in *Civilization* is select a leader for your burgeoning nation. Alexander the Great, Abraham Lincoln and Mao Zedong all coexist together simultaneously. The anachronisms made for more interesting gameplay. 
 
 If you were unlucky enough to face off against Mahatma Gandhi, he’d nuke you in the later stages of the game. This was due to a bug where level of aggression would be stored internally as a value between 1 to 10 in an 8-bit unsigned integer.[^5] Normally, when a nation develops into a democracy, it would subtract 2 from its aggression level. But because India already had the lowest default aggression at level 1, it would instead wrap around for Gandhi, setting him at aggression level 255.
 
-{% include figure.html src="/content/images/nuclear-gandhi-donavarion.jpeg" caption="Fan art featuring Gandhi's love of nukes.[^6]" %}
+{% include figure.html src="/content/images/nuclear-gandhi-donavarion.jpeg" caption="*Fan art featuring Gandhi's love of nukes.*[^6]" %}
 
 Gandhi’s penchant for nuclear arms became a popular [inside joke](https://www.youtube.com/watch?v=ep5meQkcCkg) among players. Firaxis, developers of *Civilization* since the third installment, have enshrined this joke into gameplay by giving Gandhi the highest possible values for nuke production in *Civ V*, and a 70% chance of having a hidden “nuke happy” agenda in *Civ VI*.
 
