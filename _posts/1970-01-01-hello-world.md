@@ -1,9 +1,10 @@
 ---
-title: "hello, world"
-subtitle: "Mostly here to exercise images, footnotes, and comments."
-post_date: 2026-08-09
+title: hello, world
+subtitle: Mostly here to exercise images, footnotes, and comments.
+post_date: 1970-01-01
 modified_date: 2026-08-09
-tags: [meta]
+tags:
+  - meta
 hidden: true
 ---
 
