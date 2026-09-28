@@ -49,7 +49,7 @@ During parts of the ride, I could feel myself getting emotional riding with the 
 
 The next day, my friend Shivi asked me what bike events I had been to recently. “I went to a bike protest last night,” I replied, as he showed me a Reddit post with my picture in it. Both of us were amazed—[I made the front page of r/Toronto](https://www.reddit.com/r/toronto/comments/1wqf5eo/critical_mass_sept_25/)!
 
-{% include figure.html src="/content/images/2026-09-25-critical-mass_r-toronto_image-3_u-Zirocket.webp" alt="An uncountable number of cyclists on Bloor for Critical Mass. The author is at the front of the photo. A sign reads \"BIKE LANES SAVE LIVES / Save our bike lanes\"." caption="“that’s kinda a sick \[picture\] ngl” —cinq nuits chez freddy" %}
+{% include figure.html src="/content/images/2026-09-25-critical-mass_r-toronto_image-3_u-Zirocket.webp" alt="An uncountable number of cyclists on Bloor for Critical Mass. The author is at the front of the photo. A sign reads \"BIKE LANES SAVE LIVES / Save our bike lanes\"." caption="“that’s kinda a sick \[picture\] ngl” *—cinq nuits chez freddy*" %}
 
 ## my summer is only getting started
 
