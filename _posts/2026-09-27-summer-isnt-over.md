@@ -47,9 +47,9 @@ Friday’s Critical Mass bike protest had a huge turnout. My estimate is that at
 
 During parts of the ride, I could feel myself getting emotional riding with the mass of cyclists. Joy at being part of something larger than myself. Frustration with those who swear and honk at our caravan passing by. Solidarity with those who cheer us on. Sadness at having to fight for our right to safety. All this because our beloved premier can’t get enough of driving and doesn’t care one bit about bikers.
 
-The next day, my friend Shivi asked me what bike events I had been to recently. “I went to a bike protest last night,” I replied, as he showed me a Reddit post with my picture in it. Both of us were amazed—[I made the front page of r/Toronto](https://www.reddit.com/r/toronto/comments/1wqf5eo/critical_mass_sept_25/)!
+The next day, my friend Shivi asked me what bike events I had been to recently. “I went to a bike protest last night,” I replied, as he showed me a Reddit post with my picture in it. Both of us were amazed—[I made the front page of r/Toronto](https://www.reddit.com/r/toronto/comments/1wqf5eo/critical_mass_sept_25/)![^1]
 
-{% include figure.html src="/content/images/2026-09-25-critical-mass_r-toronto_image-3_u-Zirocket.webp" alt="An uncountable number of cyclists on Bloor for Critical Mass. The author is at the front of the photo. A sign reads \"BIKE LANES SAVE LIVES / Save our bike lanes\"." caption="“that’s kinda a sick \[picture\] ngl” *—cinq nuits chez freddy[^1]*" %}
+{% include figure.html src="/content/images/2026-09-25-critical-mass_r-toronto_image-3_u-Zirocket.webp" alt="An uncountable number of cyclists on Bloor for Critical Mass. The author is at the front of the photo. A sign reads \"BIKE LANES SAVE LIVES / Save our bike lanes\"." caption="“that’s kinda a sick \[picture\] ngl” *—cinq nuits chez freddy[^2]*" %}
 
 ## my summer is only getting started
 
@@ -78,4 +78,8 @@ This is what I remember of the bands we listened to.
 
 I had a great time!
 
-[^1]: Photo credit: [u/Zirocket](https://www.reddit.com/user/Zirocket)
+[^1]: Well technically, the third image of a front-page post on r/Toronto. But still!
+
+[^2]: Photo credit: [u/Zirocket](https://www.reddit.com/user/Zirocket)
+
+
