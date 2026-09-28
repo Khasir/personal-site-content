@@ -23,7 +23,7 @@ hidden: false
 {% include figure.html src="/content/images/" full="/content/images/" alt="" caption=""  align="" width="" %}
 
 {% gallery caption="" columns=6 %}
-{% include figure.html ... %}
+{% include figure.html src="/content/images/" full="/content/images/" alt="" caption=""  align="" width="" %}
 ...
 {% endgallery %}
 -->
