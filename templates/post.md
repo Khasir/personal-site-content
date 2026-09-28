@@ -8,4 +8,22 @@ tags:
 comments: true
 hidden: false
 ---
+<!-- 
+>>>> Blockquotes <<<<
 
+{: style="max-width: 35rem"}
+> *We ought to democratize our politics and our democracy, which are truly one and the same.*
+> {: .large}
+> 
+> ---David Moscrop
+> {: .attribution}
+
+>>>> Images <<<<
+
+{% include figure.html src="/content/images/" full="/content/images/" alt="" caption=""  align="" width="" %}
+
+{% gallery caption="" columns=6 %}
+{% include figure.html ... %}
+...
+{% endgallery %}
+-->
