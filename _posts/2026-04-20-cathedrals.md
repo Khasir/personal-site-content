@@ -52,7 +52,8 @@ Nonprofits, educational institutions and for-profit corporations tend to fall in
 
 ## civic tech toronto encourages cathedrals
 
-> Civic Tech Toronto’s main output isn’t websites, it’s organizers.
+> *Civic Tech Toronto’s main output isn’t websites, it’s organizers.*
+> {: .large}
 > 
 > — [patcon](https://docs.google.com/presentation/d/1vhZub7vI9BPBqrSgighLvyofWG6eexpF/edit?slide=id.p12#slide=id.p12)
 > {: .attribution}
@@ -69,7 +70,9 @@ Subtract any of these, and you get spaces that tend to encourage parlours or man
 
 ## but really, why cathedrals?
 
-> People are 99% of civic tech.
+{: style="max-width: 20rem"}
+> *People are 99% of civic tech.*
+> {: .large}
 > 
 > — [Grace O’Hara](https://blog.codeforaustralia.org/to-the-women-of-civic-tech-f5961fd1eda2)
 > {: .attribution}
@@ -87,14 +90,15 @@ You could honestly encourage mansions for the same reasons as the above, except 
 
 ## okay, so shouldn’t you just get funding then?
 
-> For me civic tech is not about getting things done fast, because getting things done fast is not an inclusive way to do things …
+> *For me civic tech is not about getting things done fast, because getting things done fast is not an inclusive way to do things …*
+> {: .large}
 > 
 > — [Emily Macrae](https://arxiv.org/pdf/2302.06651#page=19)
 > {: .attribution}
 
 Well, you certainly could. But money is not, by default, a silver bullet to all your problems. In his presentation, Ilya [compares money to gravity](https://docs.google.com/presentation/d/1vhZub7vI9BPBqrSgighLvyofWG6eexpF/edit?slide=id.p5#slide=id.p5) that ties down most organizations—if you structure an organization around requiring money to operate, it becomes very easy to become dependent on it. Many organizations are [designed to look good](https://employerbranding.news/the-performative-trap-of-workplace-authenticity/) [instead of doing good](https://www.bridgespan.org/insights/nonprofit-organizational-effectiveness/what-is-impact-measurement-and-how-can-organizations-use-it). Financial dependency only exacerbates that risk, as you need to then prove to the world that you are effective by doing things with high visibility and not necessarily high impact. But by embracing a lack of financial dependence, you don’t have to subject yourself to the limitations of a traditional organization.
 
-If you do want money, you should ask yourself what you would do with it. A few of us have wrestled with this question with regards to [Technologists for Democracy](https://techfordemocracy.ca/) (T*f* D) which I am a co-organizer of. Most people will tell you to seek funding in order to run a volunteer organization properly. And that’s fair, sometimes you need to pay someone to do the boring administrative work or be available at a moment’s notice and respond to urgent requests. But it’s hard to fire someone once you start paying a salary—suddenly the organization becomes responsible for their livelihood so they can afford their rent or support a family. That’s a lot of pressure to keep the money coming in, and fundraising isn’t fun. 
+If you do want money, you should ask yourself what you would do with it. A few of us have wrestled with this question with regards to [Technologists for Democracy](https://techfordemocracy.ca/) (T*f*&nbsp;D) which I am a co-organizer of. Most people will tell you to seek funding in order to run a volunteer organization properly. And that’s fair, sometimes you need to pay someone to do the boring administrative work or be available at a moment’s notice and respond to urgent requests. But it’s hard to fire someone once you start paying a salary—suddenly the organization becomes responsible for their livelihood so they can afford their rent or support a family. That’s a lot of pressure to keep the money coming in, and fundraising isn’t fun. 
 
 Before going for money, you should keep these things in mind:
 
@@ -106,7 +110,7 @@ Before going for money, you should keep these things in mind:
 - *Receiving funding means conceding to funders or shareholders:* You know why so many companies are thrusting AI everywhere, to their employees and users? (No, notepad, I do not need Copilot.)
 - *Prioritizing profitability clashes with serving the public:* Oftentimes, gaining revenue or raising funds becomes the ultimate goal of an organization, to the detriment of other goals like improving the public commons.
 
-At T*f* D, we’re exploring the idea of a nonprofit. But we’re also currently leaning towards minimal financial dependency, in the same vein as CTTO or [More Neighbours Toronto](https://www.moreneighbours.ca/) which doesn’t currently have any paid staff. The main reason for us forming a nonprofit would not actually be for the funding, but instead the limited legal protections for volunteers as we go after unethical technologies.
+At T*f*&nbsp;D, we’re exploring the idea of a nonprofit. But we’re also currently leaning towards minimal financial dependency, in the same vein as CTTO or [More Neighbours Toronto](https://www.moreneighbours.ca/) which doesn’t currently have any paid staff. The main reason for us forming a nonprofit would not actually be for the funding, but instead the limited legal protections for volunteers as we go after unethical technologies.
 
 With all this in mind, there are certainly upsides to getting money. Being able to properly compensate people for the work and effort they’re putting in. Enabling staff to focus on the mission of an organization. But the way you’d structure an organization for revenue is very different than structuring for one without.
 
