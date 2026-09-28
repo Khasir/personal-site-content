@@ -10,7 +10,7 @@ tags:
   - readymade
   - reflections
 comments: true
-hidden: true
+hidden: false
 ---
 
 This is what I was up to last week.
@@ -49,7 +49,7 @@ During parts of the ride, I could feel myself getting emotional riding with the 
 
 The next day, my friend Shivi asked me what bike events I had been to recently. “I went to a bike protest last night,” I replied, as he showed me a Reddit post with my picture in it. Both of us were amazed—[I made the front page of r/Toronto](https://www.reddit.com/r/toronto/comments/1wqf5eo/critical_mass_sept_25/)!
 
-{% include figure.html src="/content/images/2026-09-25-critical-mass_r-toronto_image-3_u-Zirocket.webp" alt="An uncountable number of cyclists on Bloor for Critical Mass. The author is at the front of the photo. A sign reads \"BIKE LANES SAVE LIVES / Save our bike lanes\"." caption="“that’s kinda a sick \[picture\] ngl” *—cinq nuits chez freddy*" %}
+{% include figure.html src="/content/images/2026-09-25-critical-mass_r-toronto_image-3_u-Zirocket.webp" alt="An uncountable number of cyclists on Bloor for Critical Mass. The author is at the front of the photo. A sign reads \"BIKE LANES SAVE LIVES / Save our bike lanes\"." caption="“that’s kinda a sick \[picture\] ngl” *—cinq nuits chez freddy[^1]*" %}
 
 ## my summer is only getting started
 
@@ -77,3 +77,5 @@ This is what I remember of the bands we listened to.
 - [W.I.T.C.H](https://w-i-t-c-h.bandcamp.com/): Incredible. Lots of energy for their age. [Zamrock](https://en.wikipedia.org/wiki/Zamrock). A song about being careful who you choose as your lover, and playing games in the village as children under the moonlight. Song genres by purpose instead of style. Almost skipped a song but instead obeyed his white master. Songs that end three times.
 
 I had a great time!
+
+[^1]: Photo credit: [u/Zirocket](https://www.reddit.com/user/Zirocket)
