@@ -5,6 +5,7 @@ post_date: 2026-08-30
 modified_date: 2026-09-05
 tags:
   - reflections
+  - music
 hidden: false
 link_preview: In February, I went to a concert by ((( O ))), the self-proclaimed unpronounceable force who releases sundrops every year.
 ---
