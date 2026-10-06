@@ -3,7 +3,7 @@ title: Summer Isn't Over Yet
 subtitle: Walrus Talks, Critical Mass, and Second Summer.
 link_preview: Walrus Talks, Critical Mass, and Second Summer.
 post_date: 2026-09-27
-modified_date: 2026-09-27
+modified_date: 2026-10-05
 tags:
   - events
   - music
@@ -30,7 +30,7 @@ My friend and fellow tech worker Jenny Zhang gave a talk as part of [Walrus Talk
 
 Jenny’s speech was very inspirational. It instilled lots of pride in me for being a part of the Tech Workers Coalition. She vocalized a lot of the ideas and discussions that I’ve been privy to as part of TWC, but I’m sure was quite fresh for most of the audience. The idea of tech workers, unionizing? But why?!
 
-The [recording is here](https://www.youtube.com/live/sqF4zSXr1IU?si=nw-X408DJQXmYV4a)—if you want to listen to her part, jump to [1:00:20](https://www.youtube.com/live/sqF4zSXr1IU?si=oVTHa3Sz-XykwIMo&t=3620), though I can recommend listening to the whole event since all the speakers gave excellent talks.
+The [recording is here](https://www.youtube.com/watch?v=RuHou_LsjPQ)—if you want to listen to her part, jump to [45:12](https://youtu.be/RuHou_LsjPQ?si=YpGK2aK9W_Bi_F92&t=2712), though I can recommend listening to the whole event since all the speakers gave excellent talks.
 
 {: style="max-width: 25rem"}
 > *If unions didn’t work, there wouldn’t be so much time spent on crushing them.*
@@ -77,6 +77,10 @@ This is what I remember of the bands we listened to.
 - [W.I.T.C.H](https://w-i-t-c-h.bandcamp.com/): Incredible. Lots of energy for their age. [Zamrock](https://en.wikipedia.org/wiki/Zamrock). A song about being careful who you choose as your lover, and playing games in the village as children under the moonlight. Song genres by purpose instead of style. Almost skipped a song but instead obeyed his white master. Songs that end three times.
 
 I had a great time!
+
+---
+
+*Edit 26/10/05: Updated link to the recording for Jenny's talk.*
 
 [^1]: Well technically, the third image of a front-page post on r/Toronto. But still!
 
