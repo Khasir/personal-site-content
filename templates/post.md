@@ -18,6 +18,13 @@ hidden: false
 > ---David Moscrop
 > {: .attribution}
 
+>>>> Detail toggles <<<<
+
+<details markdown="1">
+<summary>Toggle header</summary>
+Toggle body
+</details>
+
 >>>> Images <<<<
 
 {% include figure.html src="/content/images/" full="/content/images/" alt="" caption=""  align="" width="" %}
