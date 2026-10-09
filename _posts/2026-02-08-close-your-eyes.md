@@ -89,9 +89,9 @@ It’s funny how hard it is sometimes to determine the truth. And even searching
 
 All this to say: *Her truth is just as important.*
 
-[^1]: [Ilustração Portuguesa](https://hemerotecadigital.cm-lisboa.pt/OBRAS/IlustracaoPort/1917/N610/N610_master/N610.pdf), issue nº 610, pp. 354-5. October 29, 1917.
+[^1]: *[Ilustração Portuguesa](https://hemerotecadigital.cm-lisboa.pt/OBRAS/IlustracaoPort/1917/N610/N610_master/N610.pdf)*, issue nº 610, pp. 354-5. October 29, 1917.
 
-[^2]: Santuário de Fátima. 2013. [Documentação Crítica de Fátima: Seleção de documentos (1917-1930)](https://www.fatima.pt/files/upload/fontes/F001_DCF_selecao.pdf). Translation of the following attestation by Jacinto de Almedia Lopes on p. 188:
+[^2]: Santuário de Fátima. 2013. *[Documentação Crítica de Fátima: Seleção de documentos (1917-1930)](https://www.fatima.pt/files/upload/fontes/F001_DCF_selecao.pdf)*. Translation of the following attestation by Jacinto de Almedia Lopes on p. 188:
     > *A hora aproxima-se, e eis que, como que por encanto, a chuva suspende, o sol rompe as densas e negras nuvens e mostra-se dardejante com seus luminosos raios, que bem depressa tomam as cores do amarelo, encarnado e verde, tornando os objetos que estavam sob sua influência de iguais cores; e logo perde o seu brilho e cores, – podendo ser fixado a olho nu sem ferir a vista – e toma um vertiginoso movimento de rotação, parecendo precipitar-se sobre a terra. E enquanto observa estas maravilhas, todo o povo se encontra em altas exclamações. Isto durou, o máximo, uns cinco minutos, depois voltou ao seu estado normal.*
 
 [^3]: If you really want to listen to one of their pranks, [this](https://youtu.be/Xyr-QJ-9CLs) is basically the call I got 10 years ago.
