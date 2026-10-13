@@ -10,7 +10,7 @@ comments: true
 hidden: false
 ---
 > The ceramics teacher announced on opening day that he was dividing the class into two groups. All those on the left side of the studio, he said, would be graded solely on the *quantity* of work they produced, all those on the right solely on its *quality*. His procedure was simple: on the final day of class he would bring in his bathroom scales and weigh the work of the “quantity” group: fifty pounds of pots rated an “A”, forty pounds a “B”, and so on. Those being graded on “quality”, however, needed to produce only one pot—albeit a perfect one—​to get an “A”. Well, came grading time and a curious fact emerged: the works of highest quality were all produced by the group being graded for quantity. It seems that while the “quantity” group was busily churning out piles of work—and learning from their mistakes—the “quality” group had sat theorizing about perfection, and in the end had little more to show for their efforts than grandiose theories and a pile of dead clay.
-> 
+>
 > ---David Bayles and Ted Orland, [*Art & Fear*](https://tpl.bibliocommons.com/v2/record/S234C3140551), p. 29
 > {: .attribution}
 
@@ -44,17 +44,17 @@ Even to this day, I feel the lingering hold it has over me. Left unchecked, perf
 I’m much less of a perfectionist nowadays than I used to be. I’ve come to realize that it’s often better to make many things imperfectly than to spend all your time on one thing. (Even so, I can’t help but feel an aching in my soul whenever I need to take shortcuts or I see someone doing something poorly that I feel responsible for.) What the job at the quantum lab reinforced in me is that it’s okay not to be perfect. In fact, I’ve seen how the persuit of perfection can not only demotivate yourself, but also drive other people away.
 
 > All of us who do creative work, we get into it because we have good taste. But there’s this gap, that for the first couple years that you’re making stuff, it’s really not that great. But your taste is still killer. Your taste is good enough that you can tell that what you're making is a disappointment to you.
-> 
+>
 > A lot of people never get past that phase, they quit. And the thing that I would just say to you with all my heart, is that most everybody I know has gone through a phase of years where they had really good taste, but they knew it fell short.
-> 
+>
 > You gotta know it’s totally normal, and the *most important possible thing you can do* is a lot of work. Do a huge volume of work. Because it’s only by going through a volume of work that you’re actually going to catch up and close that gap.
-> 
+>
 > It’s gonna take you a while. You just have to fight your way through that. You will make things that aren’t as good as you know in your heart you want them to be, and you’ll just make them one after another.
-> 
+>
 > ---[Ira Glass](/notes/ira-glass-on-taste/)
 > {: .attribution}
 
-I try to remind myself that it’s usually better to do something imperfectly, just to have something out there, despite the dissatisfaction of not attaining my goals for quality and the fear of poor reception. *To err is human*, as they say; *to forgive, divine*. 
+I try to remind myself that it’s usually better to do something imperfectly, just to have something out there, despite the dissatisfaction of not attaining my goals for quality and the fear of poor reception. *To err is human*, as they say; *to forgive, divine*.
 
 I pray you'll forgive my mistakes. And your own too.
 

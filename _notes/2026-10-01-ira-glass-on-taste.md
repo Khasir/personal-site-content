@@ -12,7 +12,7 @@ What follows is a human-generated transcript of [Ira Glass on Storytelling 3](ht
 
 ---
 
-**\<Ira Glass:>**  
+**Ira Glass:**  
 Nobody tells people who are beginners, and I really wish that somebody had told this to me, is that, if you’re watching this video—somebody who wants to make videos, right—and all of us who do creative work, we get into it, and we get into it because we have good taste. Do you know what I mean? You wanna make TV because you love TV, you know what I mean? ‘Cause there’s stuff you just love, okay?
 
 So you’ve got really good taste, and you get into this thing that I don't even know how to describe, but it’s like there’s a gap, that for the first couple years that you’re making stuff, what you’re making isn’t so good, okay? It’s not that great. It’s really not that great. It’s trying to be good, it has ambition to be good but it’s not quite that good.
@@ -27,22 +27,22 @@ I’m gonna play you a clip of tape from my eighth year. I started in public rad
 
 \[upbeat trumpet sting]
 
-**\<younger Ira Glass:>**  
+**Youger Ira Glass:**  
 It’s not such a long way from a local grocery store to the international debate over whether sorghum and meat production are causing corn to decline in Latin America.
 
-**\<Ira Glass:>**  
+**Ira Glass:**  
 Oh right, that debate. We were talking about that at dinner!
 
-**\<younger Ira Glass:>**  
+**Youger Ira Glass:**  
 There’s a general air of prosperity here. Partly thanks to Mexican imports of US grains, which help boost our farm economy. Mexico is now one of our biggest grain customers, buying a half-billion to a billion dollars’ worth every year, including corn to feed its people, and sorghum to feed its livestock.
 
-**\<Ira Glass:>**  
+**Ira Glass:**  
 Like, what am I talking about? I don’t even understand. I wrote this. \[laughs] I don’t even understand what it is. Also, every part of this is ill-conceived, okay? The writing is horrible! You can’t even follow what I’m talking about. And then the performance—just a little tip if you’re performing for broadcast—you don’t <u>underline</u> every third <u>word</u> for empha<u>sis</u> because it <u>sounds</u> really un<u>natural</u>. What you wanna do is you wanna talk the way people normally talk.
 
-**\<younger Ira Glass:>**  
+**Youger Ira Glass:**  
 This helps cut our own trade deficit, and benefits everyone in the US economy. But in Mexico, this policy has led to fewer tortillas for the poor, and unappetizing tortillas for everyone else.
 
-**\<Ira Glass:>**
+**Ira Glass:**
 Again, this is the most moronic kind of—it doesn’t mean anything. And in its heart, it’s actually kind of an interesting story, which I’ll say to you in a sentence, which is: because Mexico produces a lot of stuff that they ship to the United States—tomatoes, and all sorts of really wonderful food that we eat here—they don’t make enough corn for their own people. That’s the story. So for us to get really great tomatoes (or semi-great tomatoes) year-round, basically, Mexicans eat worse. That’s the story. And it’s kind of an interesting idea, right? That’s actually sort of a cool idea, executed in the worst possible way.
 
 So this is year eight, I’m 27 years old and this is happening. I’m not a beginner, I’m deep, deep into it, and I guess I’m saying: it takes a while. It’s gonna take you a while. It’s normal to take a while. And you just have to … fight your way through that, okay? You will be fierce. You will be a warrior. And you will make things that aren’t as good as you know in your heart you want them to be, and you’ll just make one after another.
