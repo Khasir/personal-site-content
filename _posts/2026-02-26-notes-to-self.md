@@ -3,7 +3,7 @@ title: Notes to Self
 subtitle:
 link_preview: This post is password-protected.
 post_date: 2026-02-26
-modified_date: 2026-02-26
+modified_date:
 tags:
   - personal
   - readymade

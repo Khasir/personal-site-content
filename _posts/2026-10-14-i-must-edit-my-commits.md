@@ -3,7 +3,7 @@ title: I am once again being told to edit my commits
 subtitle: Or, the cost of perfection.
 link_preview: Or, the cost of perfection.
 post_date: 2026-10-14
-modified_date: 2026-10-14
+modified_date:
 tags:
   - reflections
 comments: true

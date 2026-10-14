@@ -2,7 +2,7 @@
 title: Cathedrals, Parlours and Mansions
 subtitle: Understanding the philosophies of different projects at Civic Tech Toronto. But mostly cathedrals.
 post_date: 2026-04-20
-modified_date: 2026-04-24
+modified_date:
 tags:
   - reflections
   - civic-tech

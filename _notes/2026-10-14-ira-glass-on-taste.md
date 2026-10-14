@@ -2,7 +2,7 @@
 title: Ira Glass on the Skill-Taste Gap
 subtitle: A transcript.
 link_preview: A transcript.
-post_date:
+post_date: 2026-10-14
 modified_date:
 tags:
 comments: true
