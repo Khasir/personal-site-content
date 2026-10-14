@@ -2,8 +2,8 @@
 title: I am once again being told to edit my commits
 subtitle: Or, the cost of perfection.
 link_preview: Or, the cost of perfection.
-post_date:
-modified_date:
+post_date: 2026-10-14
+modified_date: 2026-10-14
 tags:
   - reflections
 comments: true
@@ -24,13 +24,17 @@ Mathieu was quite nice and very personable. He and I would talk back and forth o
 
 Joe, meanwhile, kept to himself. I hardly got to know him in my time there. And his code review process was extremely particular. I think it was partially rooted in the need for the software to work in real-world conditions, partially that it was hard to test software that communicates with satellites remotely, and partially his perfectionism. And to add to that, he had a particular coding style that he wanted me to emulate, which I found difficult and unnecessary.[^2] Eventually I found myself overthinking even the smallest of changes, which I don’t think was healthy, and reminded me of how I used to overthink things more often when I was younger.
 
+I believe the original mission launch was supposed to occur in 2024. The lab was quite disorganized, and Joe's need for perfectly-organized code unfortunately wasn't helping. I haven't even mentioned how he recommended that I rewrite an [open-source library](https://www.iausofa.org/) by the International Astronomical Union into C#. I was in the tedious process of doing that when I finally got a new job.
+
+---
+
 <details markdown="1">
 <summary>Aside: Technical Debt</summary>
 In coding, there’s this idea of *[technical debt](https://wiki.c2.com/?WardExplainsDebtMetaphor)*. It’s what happens when you make something that ends up being difficult to maintain or isn’t future-proof. On the surface, this sounds bad, but I think tech debt can be a good thing in moderation.
 
-What does having zero tech debt look like? It looks like scope creep. It looks like writing code and building things while considering every possible use case imaginable. For small projects this is somewhat feasible, but for large ones it’s virtually impossible.
-
 What does too much tech debt look like? It looks like having to work around old, bulky systems that don’t make sense anymore. It looks like taking forever to get even the simplest tasks done.
+
+What does having zero tech debt look like? It looks like scope creep. It looks like writing code and building things while considering every possible use case imaginable. For small projects this is somewhat feasible, but for large ones it’s virtually impossible.
 
 Feel free to disagree with me, but I believe both having too much and too little tech debt forces teams into taking lots of time to work on things. Having some tech debt gives you the flexibility to write code and build things without having to consider every possible contingency.
 </details>
