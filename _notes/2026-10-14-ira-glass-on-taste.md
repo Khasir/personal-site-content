@@ -27,19 +27,19 @@ I’m gonna play you a clip of tape from my eighth year. I started in public rad
 
 \[upbeat trumpet sting]
 
-**Youger Ira Glass:**  
+**Younger Ira Glass:**  
 It’s not such a long way from a local grocery store to the international debate over whether sorghum and meat production are causing corn to decline in Latin America.
 
 **Ira Glass:**  
 Oh right, that debate. We were talking about that at dinner!
 
-**Youger Ira Glass:**  
+**Younger Ira Glass:**  
 There’s a general air of prosperity here. Partly thanks to Mexican imports of US grains, which help boost our farm economy. Mexico is now one of our biggest grain customers, buying a half-billion to a billion dollars’ worth every year, including corn to feed its people, and sorghum to feed its livestock.
 
 **Ira Glass:**  
 Like, what am I talking about? I don’t even understand. I wrote this. \[laughs] I don’t even understand what it is. Also, every part of this is ill-conceived, okay? The writing is horrible! You can’t even follow what I’m talking about. And then the performance—just a little tip if you’re performing for broadcast—you don’t <u>underline</u> every third <u>word</u> for empha<u>sis</u> because it <u>sounds</u> really un<u>natural</u>. What you wanna do is you wanna talk the way people normally talk.
 
-**Youger Ira Glass:**  
+**Younger Ira Glass:**  
 This helps cut our own trade deficit, and benefits everyone in the US economy. But in Mexico, this policy has led to fewer tortillas for the poor, and unappetizing tortillas for everyone else.
 
 **Ira Glass:**
