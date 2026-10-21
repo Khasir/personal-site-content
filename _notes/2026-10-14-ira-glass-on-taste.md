@@ -42,7 +42,7 @@ Like, what am I talking about? I don’t even understand. I wrote this. \[laughs
 **Younger Ira Glass:**  
 This helps cut our own trade deficit, and benefits everyone in the US economy. But in Mexico, this policy has led to fewer tortillas for the poor, and unappetizing tortillas for everyone else.
 
-**Ira Glass:**
+**Ira Glass:**  
 Again, this is the most moronic kind of—it doesn’t mean anything. And in its heart, it’s actually kind of an interesting story, which I’ll say to you in a sentence, which is: because Mexico produces a lot of stuff that they ship to the United States—tomatoes, and all sorts of really wonderful food that we eat here—they don’t make enough corn for their own people. That’s the story. So for us to get really great tomatoes (or semi-great tomatoes) year-round, basically, Mexicans eat worse. That’s the story. And it’s kind of an interesting idea, right? That’s actually sort of a cool idea, executed in the worst possible way.
 
 So this is year eight, I’m 27 years old and this is happening. I’m not a beginner, I’m deep, deep into it, and I guess I’m saying: it takes a while. It’s gonna take you a while. It’s normal to take a while. And you just have to … fight your way through that, okay? You will be fierce. You will be a warrior. And you will make things that aren’t as good as you know in your heart you want them to be, and you’ll just make one after another.
