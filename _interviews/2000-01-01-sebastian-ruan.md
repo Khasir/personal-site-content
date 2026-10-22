@@ -1,11 +1,13 @@
 ---
-title: Sebastian Ruan just wants to improve democracy. Is that too much to ask?
+title: Sebastian Ruan simply wants to fix democracy
 subtitle:
 link_preview: Seb was the first I approached for this interview series, and we chatted about how he wants to improve civic services and democracy more broadly.
 post_date: 2000-01-01
 modified_date:
 tags:
   - civic-tech
+  - democracy
+  - government
 comments: true
 hidden: false
 ---
@@ -14,6 +16,9 @@ Seb is a good friend and fellow regular at Civic Tech Toronto. I owe him a lot f
 He was the first I approached for this interview series, and we chatted about how he wants to improve civic services and democracy more broadly. Hope you all enjoy the convo!
 
 ---
+
+> I think that the mirror \[tech companies] are holding up is warped. Warped in such a way that we see the worst parts of humanity.
+> {: .large}
 
 {% floating title="**discovering civic tech toronto**" %}
 
@@ -84,9 +89,6 @@ And this is this exciting thing: you start looking at how the structure works, w
 
 And so I learned about that, and I thought, this is an interesting system. I love systems. I love power systems and understanding how they work. This got me more excited about democracy. Now that I have that basis, I will be able to create something that will actually benefit the systems that we have right now.
 
-> I think that the mirror \[tech companies] are holding up is warped. Warped in such a way that we see the worst parts of humanity.
-> {: .large}
-
 {% endfloating %}
 {% floating title="**citizen assemblies as democracy**" %}
 
@@ -123,6 +125,10 @@ This, I think, is critical here. Tech companies have been known to say, “Oh, w
 It's obvious because the algorithm that they use is specifically designed to enrage us! [Ragebait is the term of 2025](https://corp.oup.com/news/the-oxford-word-of-the-year-2025-is-rage-bait/), right? I think it's possible to create an environment online that promotes the best natures of humanity. But, of course, the money's not there. So as a result, you end up with this dystopian nightmare of a system.
 
 {% endfloating %}
+
+> The amount of red tape in the government is insane. The reason we can't deliver on many things is because government is too risk averse. I would encourage the public to demand better services. And be okay with some risk.
+> {: .large}
+
 {% floating title="**work life**" %}
 
 **Khasir:**  
@@ -154,9 +160,6 @@ Yeah, civic tech does not garner a lot of money here in Canada. I'm very glad yo
 
 **Seb:**  
 Yeah, I think that lab has some things to work out in terms of maintaining people and retaining people. They suffer from, I would say, too much stuff being done by upper management; they need to de-scope a little bit. I mean, we can't really do much about it, but it's just from what I observed. I never got a chance to talk to anybody there about that. Also, being fully remote, it’s hard to do that.
-
-> The amount of red tape in the government is insane. The reason we can't deliver on many things is because government is too risk averse. I would encourage the public to demand better services. And be okay with some risk.
-> {: .large}
 
 I think some of these university labs really focus in on certain things that aren't as important as they might seem to be. Analyzing every line of code has some value, definitely, to create a useful, stable product. But at the cost of the user interface? It took me almost a month to run that code because there were three different aspects to run it, all in different terminals and then I had to connect them all together. So, understandable that it was soul draining at times.
 
@@ -219,7 +222,7 @@ No, that was, “let's just cut everything,” which backfired on them because t
 {% floating title="**the meaning of civic tech toronto**" %}
 
 **Khasir:**  
-To me, that gets to the heart of civic tech. All we really want to do is bring the benefits of technology to civic processes, and allow them to be more efficient, more nimble where necessary, or create solutions that work for these people. And bringing government into the 21st century, where sometimes it's lacking.
+To me, that gets to the heart of civic tech. All we really want to do is bring the benefits of technology to civic processes, and allow them to be more efficient, more nimble where necessary, or create solutions that work for these people. And bringing government into the 21<sup>st</sup> century, where sometimes it's lacking.
 
 I just want to close off this interview with one question I’m asking everyone, which is: what does Civic Tech Toronto mean to you, specifically?
 
