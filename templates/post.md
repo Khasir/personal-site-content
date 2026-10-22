@@ -35,7 +35,7 @@ Toggle body
 {% endgallery %}
 
 >>>> Floating notes <<<<
-{% floating title="This is the note title" text="This is the note body %}
+{% floating title="This is the note title" text="This is the note body" %}
 Paragraph text
 {% endfloating %}
 -->
