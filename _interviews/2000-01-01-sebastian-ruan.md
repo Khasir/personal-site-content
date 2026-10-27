@@ -2,18 +2,18 @@
 title: Sebastian Ruan simply wants to fix democracy
 subtitle:
 link_preview: Seb was the first I approached for this interview series, and we chatted about how he wants to improve civic services and democracy more broadly.
-post_date: 2000-01-01
+post_date: 1970-01-01
 modified_date:
 tags:
   - civic-tech
   - democracy
   - government
 comments: true
-hidden: false
+hidden: true
 ---
-Seb is a good friend and fellow regular at Civic Tech Toronto. I owe him a lot for referring me to my last job at the quantum lab.
+Seb is a good friend and fellow regular at Civic Tech Toronto. I owe him a lot for referring me to my last job at the quantum lab. He was the first I approached for this interview series.
 
-He was the first I approached for this interview series, and we chatted about how he wants to improve civic services and democracy more broadly. Hope you all enjoy the convo!
+We chatted in a quiet alcove at the Health Sciences Building at U of T, nestled next to a bunch of bags of worn clothes just before a Tuesday CTTO meetup. We chatted about how he wants to improve civic services and democracy more broadly. Hope you all enjoy the convo!
 
 ---
 
@@ -44,7 +44,7 @@ That’s pretty interesting. I didn’t know you googled civic tech. For me, a f
 **Seb:**  
 I did need that push—my cousin did have to come in and be like, “You should try this thing again.” \[laughs] So friend recommendations definitely help.
 
-**Khasir:**  
+**Khasir:**    
 That leads to my next question, which is: to you, what does *civic tech* mean? As opposed to Civic Tech Toronto?
 
 **Seb:**   
@@ -52,7 +52,7 @@ So, civic technology—it's interesting because I run [Civic Tech 101](https://d
 
 And I found this distinction early on, that it doesn't mean you're building something for government. There's a distinction between *government tech*, which improves the efficiency and ability for the public service to deliver to the public, and *civic tech*, which is more of building technology directly for residents or citizens. At least, I think that’s how this community defines it.
 
-For me personally, I really value the democracy aspect. [Ilya](/interviews/TODO), who's also a member of Civic Tech Toronto, has a really good way of saying this: we're building democratic infrastructure. He works on the [Civic Dashboard](https://civicdashboard.ca/) project, I was working on [Polis](https://pol.is/), and all of these things are just platforms or tools to improve the way that we interface with democracy.
+For me personally, I really value the democracy aspect. Ilya, who's also a member of Civic Tech Toronto, has a really good way of saying this: we're building democratic infrastructure. He works on the [Civic Dashboard](https://civicdashboard.ca/) project, I was working on [Polis](https://pol.is/), and all of these things are just platforms or tools to improve the way that we interface with democracy.
 
 And that's the thing that I get excited about. So that's how I define it. Which is maybe more specific than what all of Civic Tech Toronto as a community defines *civic tech*.
 
@@ -112,7 +112,7 @@ And they said:
 Polis.
 {: .large style="text-align: center"}
 
-I had already heard about it from this podcast called [Your Undivided Attention](https://www.humanetech.com/podcast) produced by the Center for Humane Technology. They interviewed Audrey Tang from Taiwan, and she says in it that Polis is the thing that they use in Taiwan. So there's multiple different avenues of people saying Polis is the way to have these conversations at scale in a collaborative manner. Which is great because this is the online space that I'm looking for, that is much better and bolsters democracy, compared to your Facebooks, your Twitters, your Instagrams. Ideally we would see more of that in the world today.
+I had already heard about it from this podcast called [Your Undivided Attention](https://www.humanetech.com/podcast) produced by the Center for Humane Technology. They interviewed [Audrey Tang](https://en.wikipedia.org/wiki/Audrey_Tang) from Taiwan, and she says in it that Polis is the thing that they use in Taiwan. So there's multiple different avenues of people saying Polis is the way to have these conversations at scale in a collaborative manner. Which is great because this is the online space that I'm looking for, that is much better and bolsters democracy, compared to your Facebooks, your Twitters, your Instagrams. Ideally we would see more of that in the world today.
 
 **Khasir:**  
 I think a lot of social media these days is very driven on conflict and pure engagement, as opposed to really engaging with the values of: why did we invent these in the first place? To allow people to have a voice on the ground, right? That's democracy.
