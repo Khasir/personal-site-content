@@ -33,4 +33,9 @@ Toggle body
 {% include figure.html src="/content/images/" full="/content/images/" alt="" caption=""  align="" width="" %}
 ...
 {% endgallery %}
+
+>>>> Floating notes <<<<
+{% floating title="This is the note title" text="This is the note body" %}
+Paragraph text
+{% endfloating %}
 -->
