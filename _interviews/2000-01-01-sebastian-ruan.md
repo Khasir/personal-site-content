@@ -10,8 +10,10 @@ tags:
   - government
 comments: true
 hidden: true
+audio_file: audio/sample.m4a
+audio_description: \[EXAMPLE] This audio was created using an efficient, open-source TTS engine run on my computer. Neither my voice nor NAME's was used. NAME has consented to this audio. More details in the [colophon](/colophon).
 ---
-Seb is a good friend and fellow regular at Civic Tech Toronto. I owe him a lot for referring me to my last job at the quantum lab. He was the first I approached for this interview series.
+Seb is a good friend and fellow regular at [Civic Tech Toronto](https://civictech.ca/). I owe him a lot for referring me to my last job at the quantum lab. He was the first I approached for this interview series.
 
 We chatted in a quiet alcove at the Health Sciences Building at U of T, nestled next to a bunch of bags of worn clothes just before a Tuesday CTTO meetup. We chatted about how he wants to improve civic services and democracy more broadly. Hope you all enjoy the convo!
 
