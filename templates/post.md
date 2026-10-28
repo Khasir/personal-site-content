@@ -5,6 +5,8 @@ link_preview:
 post_date:
 modified_date:
 tags:
+audio_file:
+audio_description:
 comments: true
 hidden: false
 ---
