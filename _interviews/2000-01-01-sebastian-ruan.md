@@ -1,6 +1,6 @@
 ---
 title: Sebastian Ruan simply wants to fix democracy
-subtitle:
+subtitle: "Civic Tech Interviews #X"
 link_preview: Seb was the first I approached for this interview series, and we chatted about how he wants to improve civic services and democracy more broadly.
 post_date: 1970-01-01
 modified_date:
@@ -44,7 +44,7 @@ At the time I was in Waterloo, so I was only coming remotely, but when I moved t
 That’s pretty interesting. I didn’t know you googled civic tech. For me, a friend recommended me and I just stumbled into it.
 
 **Seb:**  
-I did need that push—my cousin did have to come in and be like, “You should try this thing again.” \[laughs] So friend recommendations definitely help.
+I did need that push—my cousin did have to come in and be like, “You should try this thing again.” \[*laughs*] So friend recommendations definitely help.
 
 **Khasir:**    
 That leads to my next question, which is: to you, what does *civic tech* mean? As opposed to Civic Tech Toronto?
@@ -75,9 +75,9 @@ Build fast.
 **Seb:**    
 Right. Ideally, build fast and *not* break things. Build fast and improve things. But I would say, more so, what ends up happening is you build fast and then don't accomplish your goals. It fizzles.
 
-I think to build something that actually is going to be beneficial for people, you have to start with who that you're building for. For me, even when I was focusing on Polis, I was trying to build a tool that maybe city councilors would use. They would have this ability to do surveys with residents within their community and gather a broad consensus of what that community wants. And then I realized somewhere along the line that I don't know the process. Or how city council works. That's not good. \[laughs]
+I think to build something that actually is going to be beneficial for people, you have to start with who that you're building for. For me, even when I was focusing on Polis, I was trying to build a tool that maybe city councilors would use. They would have this ability to do surveys with residents within their community and gather a broad consensus of what that community wants. And then I realized somewhere along the line that I don't know the process. Or how city council works. That's not good. \[*laughs*]
 
-If I'm gonna be delivering something to city council, I’m gonna need to know what they do, right? And then I was thinking more about it, and I realized I don't know how we make decisions in democracy in the first place! Okay, I gotta take a step back here \[laughs] and figure out what's going on.
+If I'm gonna be delivering something to city council, I’m gonna need to know what they do, right? And then I was thinking more about it, and I realized I don't know how we make decisions in democracy in the first place! Okay, I gotta take a step back here \[*laughs*] and figure out what's going on.
 
 The best way I learn things is, I watch YouTube videos. I'll eat my lunch and I'll watch a YouTube video of some sort of educational content. And so, I found a [playlist from Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtOfse2ncvffeelTrqvhrz8H) by Hank and John Green on YouTube about American democracy. Very American-centric, but for the most part, democracies follow the same model. So I learned about the three different branches of government:
 
@@ -145,7 +145,7 @@ Not quite.
 Not quite, okay. What is it?
 
 **Seb:**  
-I have half a degree in physics, which means I don't have a degree. \[laughs] I did two years of physics and I was trying to do a computer science minor. Then I realized that I enjoy computer science more than physics, so I switched. I was going to do a computer science major and a physics minor, and then the physics minor disappeared. So I still have some of that physics background, which I think they were excited about when I did the interview: “Great, you have some physics and you have the computer science so you would be a good person to hire.”
+I have half a degree in physics, which means I don't have a degree. \[*laughs*] I did two years of physics and I was trying to do a computer science minor. Then I realized that I enjoy computer science more than physics, so I switched. I was going to do a computer science major and a physics minor, and then the physics minor disappeared. So I still have some of that physics background, which I think they were excited about when I did the interview: “Great, you have some physics and you have the computer science so you would be a good person to hire.”
 
 The person who was previously in that role was leaving for Toronto. He was the friend of my friend from karate.
 
@@ -155,10 +155,10 @@ Whoa.
 **Seb:**  
 Yeah I know, right? It's a bit of a thing. I used to do karate at the University of Waterloo. I met my friend Ben there, and then he referred me to his roommate. Since this friend was leaving to go to Toronto to start a new job, he knew I was looking for a position and messaged me and said, “Hey, would you want this position?” I read the description and I thought, whoa, this sounds like a really cool job. So I applied with a reference, and then they asked me for an interview. We did the interview. And they hired me, I think within a week or two? It was a part-time position. So it wasn't like they were going to hire me full time. So then I worked with them on their software stuff. And because it was part time, it allowed me to work on the civic tech stuff that I wanted to work on.
 
-Having that income stream, so then I can focus on other things that I want to do is quite useful, in terms of being able to get the dreams that you want to get done. Hard to get paid to do the things you want to do. \[laughs]
+Having that income stream, so then I can focus on other things that I want to do is quite useful, in terms of being able to get the dreams that you want to get done. Hard to get paid to do the things you want to do. \[*laughs*]
 
 **Khasir:**  
-Yeah, civic tech does not garner a lot of money here in Canada. I'm very glad you referred me there. It was a very good stop gap. It was very different from civic tech, very different from anything I've done before. But it was also soul draining. \[laughs] I'm glad you referred me, but I would not go back.
+Yeah, civic tech does not garner a lot of money here in Canada. I'm very glad you referred me there. It was a very good stop gap. It was very different from civic tech, very different from anything I've done before. But it was also soul draining. \[*laughs*] I'm glad you referred me, but I would not go back.
 
 **Seb:**  
 Yeah, I think that lab has some things to work out in terms of maintaining people and retaining people. They suffer from, I would say, too much stuff being done by upper management; they need to de-scope a little bit. I mean, we can't really do much about it, but it's just from what I observed. I never got a chance to talk to anybody there about that. Also, being fully remote, it’s hard to do that.
@@ -176,7 +176,7 @@ For example, we support some of the sexual health clinics in the city. The not�
 I'm all for this. I'm all for government building the stuff internally so that we can actually see the data and we can actually see the way that the data is processed. When you work with vendors, you don't know what you're going to get. Some vendors are amazing, and they produce really good products. Some vendors … I don't even know what they're doing. They don't even know what they're doing.
 
 **Khasir:**  
-\[laughs]
+\[*laughs*]
 
 {% endfloating %}
 {% floating title="**government efficiency**" %}
@@ -215,7 +215,7 @@ I think that's the thing. We have to strike a balance. We have to do an analysis
 I'm not saying totally get rid of them. I'm just saying we should be hiring people to do the things that benefit the public most. Specifically to answer your question, look at the processes that currently exist, and cut out the stuff that you don't need. But that takes time. And I think [DOGE](https://www.britannica.com/topic/Department-of-Government-Efficiency-United-States) was not that.
 
 **Khasir:**  
-\[laughs] No.
+\[*laughs*] No.
 
 **Seb:**  
 No, that was, “let's just cut everything,” which backfired on them because they had to rehire everybody that they fired for more money. If anything, now it costs the government money to do all those cuts, which then ended up in more bloat.
