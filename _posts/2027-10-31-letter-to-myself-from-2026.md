@@ -31,6 +31,8 @@ I’ve been feeling a bit overwhelmed lately. I think it’s due to having to de
 I’ve been exploring my sexuality lately. Short-term flings, hookups. I want to explore while I still can, but honestly I’m also just afraid of being burned again in a serious relationship. Also, shocking how expensive [PrEP](https://en.wikipedia.org/wiki/Pre-exposure_prophylaxis_for_HIV_prevention) is—Gilead really has the LBGT community in a chokehold.
 
 - Am I dating anyone seriously now? (I hope so, for my own sake!)
+- Is my bestie dating again too? (She deserves someone nice!)
+- Is S still seeing V? (They seem to be getting along well!)
 
 The first portion of the bike lanes in Etobicoke were [removed recently](https://www.cbc.ca/news/canada/toronto/etobicoke-bloor-street-west-bike-lane-removal-section-complete-9.7402894). The cycling community certainly made it difficult for Verdi Alliance, though. Unfortunately, I hadn’t been able to participate in the protests because I’ve somehow been busy almost every day for the last few weeks, and my commitment to keeping TfD running.
 
