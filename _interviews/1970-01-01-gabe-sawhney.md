@@ -6,8 +6,8 @@ post_date: 1970-01-01
 modified_date:
 tags:
   - civic-tech
-audio_file: audio/sample.m4a
-audio_description: \[EXAMPLE] This audio was created using an efficient, open-source TTS engine run on my computer. Neither my voice nor NAME's was used. NAME has consented to this audio. More details in the [colophon](/colophon).
+audio_file:
+audio_description:
 comments: true
 hidden: true
 ---

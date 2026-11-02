@@ -1,6 +1,6 @@
 ---
 title: Sebastian Ruan simply wants to fix democracy
-subtitle: "Civic Tech Interviews #X"
+subtitle: "Civic Tech Interviews #3"
 link_preview: Seb was the first I approached for this interview series, and we chatted about how he wants to improve civic services and democracy more broadly.
 post_date: 1970-01-01
 modified_date:
@@ -10,8 +10,8 @@ tags:
   - government
 comments: true
 hidden: true
-audio_file: audio/sample.m4a
-audio_description: \[EXAMPLE] This audio was created using an efficient, open-source TTS engine run on my computer. Neither my voice nor NAME's was used. NAME has consented to this audio. More details in the [colophon](/colophon).
+audio_file:
+audio_description:
 ---
 Seb is a good friend and fellow regular at [Civic Tech Toronto](https://civictech.ca/). I owe him a lot for referring me to my last job at the quantum lab. He was the first I approached for this interview series.
 
