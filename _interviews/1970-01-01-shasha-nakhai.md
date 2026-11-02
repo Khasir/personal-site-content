@@ -1,16 +1,16 @@
 ---
 title: Shasha Nakhai has picked a side
 subtitle:
-link_preview:
-post_date: 2000-01-01
+link_preview: You might know Shasha for directing Scarborough—we talked about her filmography as well as the connection between civic tech and cinematography on a mild autumn day at Grange Park.
+post_date: 1970-01-01
 modified_date:
 tags:
   - civic-tech
   - film
 comments: true
-hidden: false
+hidden: true
 ---
-You might know Shasha Nakhai for directing *Scarborough* or producing *The Sandbox*. She’s very friendly ... ?
+You might know Shasha Nakhai for *[Scarborough](https://www.imdb.com/title/tt12890988/)* and *[The Sandbox](https://www.imdb.com/title/tt27557529/)*, her most recent film. We talked about her filmography as well as the connection between civic tech and cinematography on a mild autumn day at Grange Park.
 
 ---
 
@@ -37,7 +37,7 @@ So I asked the organizer, Thorben, if there was anyone doing work on data centre
 And then, I think the first event I went to was—you called me and then told me about it. It was about the victory party at Paupers Pub for the pilot cancellation.
 
 **Khasir:**  
-I guess that was around sometime late last year. That was a joint meetup between the [Tech Workers Coalition](https://techworkerscoalition.org/canada/) and TfD. And also coincided with the end of Magna pilot.
+I guess that was around sometime late last year. That was a joint meetup between the [Tech Workers Coalition](https://techworkerscoalition.org/canada/) and TfD. And it also coincided with the end of [Magna pilot](https://www.thestar.com/news/gta/you-never-know-why-companies-do-things-magna-ends-its-driverless-vehicle-test-early-in/article_ed0a0f2b-0fb0-425d-8509-8fee5d2237fa.html).
 
 **Shasha:**  
 Yeah, I just remember everyone being very welcoming and having some really good in-depth conversations about the state of the world. And it was something I was looking for. I didn't realize it, but on a personal level, I did a lot of activist-y stuff growing up in university, and shortly after. But over time, it evolved that my work became my activism, and it became the way to shape conversations, narratives, and to build the world in the way that you want to see them built.
@@ -102,7 +102,7 @@ I mean, I have a very personal project I'm in development on, so that's even mor
 Coming back to the idea of Civic Tech—I think a lot of people forget about the civic side of civic tech, and they think only of the tech side. And personally, I consider what you are doing to be civic tech.
 
 **Shasha:**  
-Which is hilarious, because I'm not a tech person. I'm probably the least technologist at Technologist for Democracy. \[laughs]
+Which is hilarious, because I'm not a tech person. I'm probably the least technologist at Technologist for Democracy. \[*laughs*]
 
 **Khasir:**  
 That's okay! In terms of the civic side, you're shining a lens on what it means to participate in society. That's civics, right? In terms of filmmaking, I think that there is an important overlap between the civic side of things.
@@ -134,10 +134,10 @@ For sure. I think that there really is a power in film and media, and it's not a
 The line from inspiration to direct action. 
 
 **Shasha:**  
-Yeah. Now's not really the time—I mean, we can ponder these big philosophical questions, but we need to move because other people are moving faster than us. \[laughs]
+Yeah. Now's not really the time—I mean, we can ponder these big philosophical questions, but we need to move because other people are moving faster than us. \[*laughs*]
 
 **Khasir:**  
-\[laughs] Do you think that there are a lot of filmmakers out there that are exploring the more technical side of things? You just mentioned, for example, that a lot of people will complain or make a film about it. Do you see people trying to bridge the divide between both sides? Or is that not as common a thing?
+\[*laughs*] Do you think that there are a lot of filmmakers out there that are exploring the more technical side of things? You just mentioned, for example, that a lot of people will complain or make a film about it. Do you see people trying to bridge the divide between both sides? Or is that not as common a thing?
 
 **Shasha:**  
 I think there has been a siloing in the past. That is what I’m trying to do too with Film Club, is have more of an overlap. I’m seeing a growing number of people tackling tech stories. Before, it was just one or two people you could name who specialize in those spheres, but I think filmmakers are realizing that to tell a story about the world we live in today is to tell a tech story.
@@ -165,29 +165,29 @@ There's a much greater risk of being targeted, most especially if you're speakin
 Do you think journalists should pick a side, or do you think journalists should try to stay as neutral as possible in terms of reporting things?
 
 **Shasha:**  
-That's an interesting question. It's a very long thing we can discuss for hours! I think there is a role for neutral journalism. Unfortunately, when we're talking about the big tech divide, there's just facts that would make them pick a side, if you know what I mean. \[laughs]
+That's an interesting question. It's a very long thing we can discuss for hours! I think there is a role for neutral journalism. Unfortunately, when we're talking about the big tech divide, there's just facts that would make them pick a side, if you know what I mean. \[*laughs*]
 
 **Khasir:**  
-\[laughs] I think I know what you mean!
+\[*laughs*] I think I know what you mean!
 
 **Shasha:**  
-It's hard to be subjective about some things. Like total annihilation of the human race! I think you can pick a side. \[laughs]
+It's hard to be subjective about some things. Like total annihilation of the human race! I think you can pick a side. \[*laughs*]
 
 **Khasir:**  
-Well… \[laughs] I think you're on to something here.
+Well… \[*laughs*] I think you're on to something here.
 
 There are a lot of examples of—I was reading an [article today about techno-solutionism](https://vsanchezgomez.substack.com/p/technosolutionism-part1). Someone, who reached out to me on LinkedIn and seemed very interesting actually, had written an article about it. He had an interesting metaphor talking about how a lot of tech companies and AI companies these days are selling products to solve problems that their other products created.
 
 **Shasha:**  
-\[laughs] The endless scam.
+\[*laughs*] The endless scam.
 
 **Khasir:**  
 The endless scam. It's like a cycle, like a serpent eating its tail. Meta, for example, trying to sell this AI companion that will keep people company because people are lonely. And why are they lonely? People who use social media a lot tend to be lonelier. And why is that? Because they're online and not socializing in person.
 
-He had a very good metaphor. Imagine, 200 years ago, you’re a child, and you're working in the mines. Your hands are tired and your body's tired. So the mine owner sells you this cream that heals you. You feel better and ready to go back in the mines. And you would say, yes, this cream is helpful. We should have more of it. \[laughs] That's what the tech companies are doing.
+He had a very good metaphor. Imagine, 200 years ago, you’re a child, and you're working in the mines. Your hands are tired and your body's tired. So the mine owner sells you this cream that heals you. You feel better and ready to go back in the mines. And you would say, yes, this cream is helpful. We should have more of it. \[*laughs*] That's what the tech companies are doing.
 
 **Shasha:**  
-Yeah, I think also one of the interesting things we found when we were working on The Sandbox was, we thought we would find this hyper self-aware, hyper-secretive, hyper-connected international network of extreme conspiracy. But, to be honest, a lot of it was people who didn't even know how things worked, and they just bought something because it was pitched to them and told it would work.
+Yeah, I think also one of the interesting things we found when we were working on *The Sandbox* was, we thought we would find this hyper self-aware, hyper-secretive, hyper-connected international network of extreme conspiracy. But, to be honest, a lot of it was people who didn't even know how things worked, and they just bought something because it was pitched to them and told it would work.
 
 And I think so much of this scamming and selling the empty box is happening because we have a lot of boomers, and older decision-makers who aren't necessarily technologically literate. They just keep buying these things. I think people becoming more technologically literate is very important.
 
@@ -195,10 +195,10 @@ And I think so much of this scamming and selling the empty box is happening beca
 It sounds to me that we're going in this direction because some people are leading the pack and others are not fully informed of the risks and the trade-offs. It's easy to attribute malice to this kind of thing when it's actually just whatever is easiest for most people. 
 
 **Shasha:**  
-There is some deep malice there, but the majority of it is just bumbling. \[laughs]
+There is some deep malice there, but the majority of it is just bumbling. \[*laughs*]
 
 **Khasir:**  
-\[laughs] 
+\[*laughs*] 
 
 {% endfloating %}
 {% floating title="**the meaning of civic tech toronto**" %}
