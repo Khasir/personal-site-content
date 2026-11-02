@@ -1,6 +1,6 @@
 ---
 title: Shasha Nakhai has picked a side
-subtitle:
+subtitle: "Civic Tech Interviews #2"
 link_preview: You might know Shasha for directing Scarborough—we talked about her filmography as well as the connection between civic tech and cinematography on a mild autumn day at Grange Park.
 post_date: 1970-01-01
 modified_date:
