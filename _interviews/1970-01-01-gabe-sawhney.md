@@ -277,7 +277,7 @@ I think that may have changed a little bit over time. Or maybe it ebbs and flows
 
 I really hope that it represents a different kind of vision for what good tech, a good tech career, good tech effort can look like. I want people to have different role models when it comes to tech “heroes,” let's call them. Because I think, increasingly, we're seeing how the folks who we thought were the tech heroes were not. I think that for folks who are early in their career, I'd like for it to offer something different that resonates.
 
-I think for me now, it's actually a really great place for me to—oh man, I can't believe I'm saying this on tape. There's a way to say this. This is where I'm almost 50, this is just where I'm at. One of the things that I really value about it now is that it's a way for me to spend time with younger people. Because in my job, in my life, I'm with old people now, so it's really exciting and often confusing and sometimes frustrating to hang out with younger people.
+I think for me now, one of the things that I really value about it is that it's a way for me to spend time with younger people. Because in my job, in my life, I'm with old people now, so it's really exciting and often confusing and sometimes frustrating to hang out with younger people.
 
 **Khasir:**  
 \[*laughs*] 
