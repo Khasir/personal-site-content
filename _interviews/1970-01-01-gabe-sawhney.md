@@ -49,7 +49,7 @@ It just really resonated with me. I had done some work around what I later came 
 You've been a part of Civic Tech Toronto for a long time. You mentioned to me at one point that you haven't been here the whole time, but you've been here for most of the time. Have you noticed things change in your time that you've been involved? Would you say that there's different vibes in different years?
 
 **Gabe:**  
-Some things have changed over time and some things haven't. Which feels right! The biggest change happened while I wasn't involved. In March 2020, the organizing team at the time needed to make a decision about whether to continue doing hacknights.[^1] or not. I think possibly the most important decision in Civic Tech Toronto’s history was made, which was to continue doing hacknights and just move them onto Zoom. 
+Some things have changed over time and some things haven't. Which feels right! The biggest change happened while I wasn't involved. In March 2020, the organizing team at the time needed to make a decision about whether to continue doing hacknights[^1] or not. I think possibly the most important decision in Civic Tech Toronto’s history was made, which was to continue doing hacknights and just move them onto Zoom. 
 
 That means that Civic Tech Toronto didn't miss a week through the pandemic. A pandemic that essentially wiped out a lot of community organizing, community meeting. But Civic Tech Toronto is one of the few groups that kept going. And not just kept going, but actually was strengthened in a lot of ways because it was a lifeline, so to speak, for folks who sought out that kind of community through those days. So, I think the move to online and then the subsequent move to hybrid were the most visible changes.
 
