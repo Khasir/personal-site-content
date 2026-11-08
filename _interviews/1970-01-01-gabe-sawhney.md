@@ -119,7 +119,7 @@ I probably have stronger views about this than some people, but with Civic Tech 
 
 There's all kinds of hairy questions that come out of that, which are often not the fun questions to answer. I think what’s an important value in the way that we organize Civic Tech Toronto is that, these are volunteer things, and volunteer stuff should prioritize stuff that's fun. Because it becomes a risk—the more not-fun jobs there are, the more fragile the thing will be, because you may not always be able to find people who do that not-fun stuff. So let's try to design out the not-fun stuff. Money is one of those not-fun things.
 
-So we've just tried to be as lean as possible with having money. We don't go especially out of our way to try to get money. We try to make sure that for the money that we have, we’re able to stretch it as far as possible without any of the management of it being onerous.
+So we've just tried to be as lean as possible with having money. We try to make sure that for the money that we have, we’re able to stretch it as far as possible without any of the management of it being onerous.
 
 **Khasir:**  
 Honestly, I think this is also a contributing factor to why the culture has focused on openness and sharing. There is no financial incentive for people to participate, so it doesn't attract the kind of people that would go after money. It creates a space for everyone else who doesn't care as much about that, or is not in a position to care about that.
@@ -127,7 +127,7 @@ Honestly, I think this is also a contributing factor to why the culture has focu
 **Gabe:**  
 Yeah, totally. I really love that way of framing it. I think that's such a strong point. I think that civic technologists and civic tech projects tend to be enormously resourceful. Certainly, sometimes you do need resources for something, but these groups and these folks, when they're really mission-driven, when they really care about the work that they're doing, are able to leverage relationships and dig through the couch cushions and find what they need in order to get stuff done, in a way that is far more efficient than trying to do that centrally.
 
-If we offered free AWS credits or something like that, I just think that that would end up being a resource that’s not used super effectively. Whereas if the groups are seeking those things out on their own, which they totally can, it just sort of works out much better. There's a culture of sharing resources, sharing opportunities, sharing network, that helps lift us all hopefully.
+If we offered free cloud hosting credits or something like that, I just think that that would end up being a resource that’s not used super effectively. Whereas if the groups are seeking those things out on their own, which they totally can, it tends to work out much better. There's a culture of sharing resources, sharing opportunities, sharing network, that helps lift us all hopefully.
 
 {% endfloating %}
 {% floating title="**gabe’s involvement in civic tech projects**" %}
@@ -138,7 +138,7 @@ You've been involved in a few civic tech projects as part of Civic Tech Toronto:
 **Gabe:**  
 Tabs Toronto is a project that I started probably in 2021 or 2022. But it was actually just a rebuild of someone else's project. It was possibly one of the first civic tech projects in Toronto that I was aware of and was from at least 10 years prior to that. It came out of a Random Hacks of Kindness hackathon very early on that I didn't participate in. Some folks who were affiliated with the [Toronto Public Space Committee](https://www.publicspace.ca/) created Toronto Bids as a tool for tracking City of Toronto council agendas, in order to make it easier for folks to track items or topics that they cared about that were coming up. City of Toronto agendas are posted seven days in advance, and so this is just a little crawler that takes a look at those and just sends you an email if a topic that you've signed up for notifications on is coming up, to give you a heads up so that you can go and [depute](https://civicdashboard.ca/wiki/Deputations.html) if you want to.
 
-There were some folks who stood that up many, many years ago. I found that super inspiring and also super useful. I know that many others did as well, and at some point, it went offline. \[*laughs*] As happens, after a decade with the civic tech projects, commonly.
+There were some folks who stood that up many, many years ago. I found that super inspiring and also super useful. I know that many others did as well, and at some point, it went offline. \[*laughs*] As happens, sometimes, with civic tech projects.
 
 I remember getting a call from someone who was doing advocacy work at an environmental non-profit. They said, I really miss Tabs, that project. It helped me and a lot of our sister organizations to keep track of what's going on, and having to do that manually now means that I can't go on vacation. Or if I go on vacation, I'm afraid that we're going to miss something that's happening at Council. So I was like, oh yeah, wow. It really brought to me that both the people doing real advocacy work were depending on these tools and the impact of those tools not being available.
 
@@ -277,7 +277,7 @@ I think that may have changed a little bit over time. Or maybe it ebbs and flows
 
 I really hope that it represents a different kind of vision for what good tech, a good tech career, good tech effort can look like. I want people to have different role models when it comes to tech “heroes,” let's call them. Because I think, increasingly, we're seeing how the folks who we thought were the tech heroes were not. I think that for folks who are early in their career, I'd like for it to offer something different that resonates.
 
-I think for me now, one of the things that I really value about it is that it's a way for me to spend time with younger people. Because in my job, in my life, I'm with old people now, so it's really exciting and often confusing and sometimes frustrating to hang out with younger people.
+I think for me now, one of the things that I really value about it is that it's a way for me to spend time with younger people. Because in my job, in my life, I'm mostly with old people now, so it's really exciting and often confusing and sometimes frustrating to hang out with younger people.
 
 **Khasir:**  
 \[*laughs*] 
