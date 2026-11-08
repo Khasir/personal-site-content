@@ -53,8 +53,6 @@ You talked about your film being your activism. And most recently, you produced 
 One thing that struck me is how surveillance seems to be growing on a global scale, where you point at examples in different locations around the world. What are some of the challenges you face in producing a film like that? And with a message that's spread across the world like that? I know you've mentioned it was multiple stories, and you tried to find a narrative that combined them all.
 
 **Shasha:**  
-I'm not gonna go into too much detail on how that film ended up to be what it is, but a big part of the process of making that film was that it was also made by a first-time filmmaker. Someone who had worked in human rights, but it was their first film that they were making. So, a lot of the development process was shaped by that. She had been following an investigative journalist who was working in these spaces, and that's how a lot of the access to these spaces came about.
-
 We really wanted it to be a global project because, first of all, a lot of what was happening on the periphery is still happening in darkness and by design. We wanted to make sure it was global, so people could connect the dots more globally and understand how something happening in a refugee camp in the Kenya-Somalia border can have real-world implications for us over here. How interconnected really everything is. That was the primary purpose between that being very global and choosing to focus on the things that we did. And, of course, a lot of it was just the logistics of production and the process of documentary and shaping and finding a story.
 
 **Khasir:**  
