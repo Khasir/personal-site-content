@@ -11,7 +11,7 @@ audio_description:
 comments: true
 hidden: true
 ---
-Gabe is one of the co-founders of Civic Tech Toronto. Despite his stony exterior, he conceals a kindness and thoughtfulness that is reflected in the community he has helped to create. In the basement of 1RG on a sunny day in mid-October, I asked Gabe some questions about CTTO and how it has thrived for so long.
+Gabe is one of the co-founders of [Civic Tech Toronto](https://civictech.ca/). Despite his stony exterior, he conceals a kindness and thoughtfulness that is reflected in the community he has helped to create. In the basement of [1RG](https://1rg.space/) on a sunny day in mid-October, I asked Gabe some questions about CTTO and how it has thrived for so long.
 
 ---
 
@@ -275,7 +275,7 @@ I just want to end this interview with the same question I'm asking to everyone,
 **Gabe:**  
 I think that may have changed a little bit over time. Or maybe it ebbs and flows or something, but sometimes I think of it as, especially as I am getting older. I think of it as a space that I really wish had existed when I was earlier in my career or earlier in my education. These are the conversations that I wanted to have, with the people I wanted to have it with, that didn't exist at the time.
 
-I really hope that it represents a different kind of vision for what good tech, a good tech career, good tech effort can look like. I want people to have different role models when it comes to tech “heroes,” let's call them. Because I think, increasingly, we're seeing how the folks who we thought were the tech heroes were not. I think that for folks who are early in their career, I'd like for it to offer something different that resonates.
+I really hope that it represents a different kind of vision for what good tech, a good tech career, good tech effort can look like. I want people to have different role models when it comes to tech “heroes,” let's call them. Because I think, increasingly, we're seeing how the folks who we thought were the tech heroes were not. For folks who are early in their career, I'd like for it to offer something different that resonates.
 
 I think for me now, one of the things that I really value about it is that it's a way for me to spend time with younger people. Because in my job, in my life, I'm mostly with old people now, so it's really exciting and often confusing and sometimes frustrating to hang out with younger people.
 
