@@ -2,14 +2,14 @@
 title: Gabe Sawhney really cares about civic technology
 subtitle: "Civic Tech Interviews #1"
 link_preview: In the basement of 1RG on a sunny day in mid-October, I asked Gabe some questions about CTTO and how it has thrived for so long.
-post_date: 1970-01-01
+post_date: 2026-11-09
 modified_date:
 tags:
   - civic-tech
 audio_file:
 audio_description:
 comments: true
-hidden: true
+hidden: false
 ---
 Gabe is one of the co-founders of [Civic Tech Toronto](https://civictech.ca/). Despite his stony exterior, he conceals a kindness and thoughtfulness that is reflected in the community he has helped to create. In the basement of [1RG](https://1rg.space/) on a sunny day in mid-October, I asked Gabe some questions about CTTO and how it has thrived for so long.
 
