@@ -13,6 +13,9 @@ audio_file:
 audio_description:
 comments: true
 hidden: false
+comment_hints:
+  - THE END IS NEVER THE END IS NEVER THE END IS NEVER THE END IS NEVER
+  - ""
 ---
 I play a lot of [Chivalry 2](https://store.steampowered.com/app/1824220/Chivalry_2/). I have a love-hate relationship with it, as I slice hundreds of heads off with my greatsword late into the night.[^1] It’s a game where you can live out the fantasy of being a medieval knight carving your way through enemy lines. I even used to watch YouTubers like [Ziggylata](https://www.youtube.com/@Ziggylata/featured) and [Soter Dave](https://www.youtube.com/@SoterDave/featured) because I loved the idea of swinging my sword even when I wasn’t playing.
 
@@ -28,15 +31,12 @@ During my masters, I stayed with a senior as part of a homeshare program. She sh
 
 More recently, a trailblazer of the Canadian civic tech community passed away suddenly a few weeks ago. Curtis McCord completed his PhD by studying civic tech in the Canadian context, with two of the three main parts of [his thesis](https://www.proquest.com/openview/a25597d67991596d22f2a4e01d326408/1?pq-origsite=gscholar&cbl=18750&diss=y) focusing on Civic Tech Toronto. I've cited him on this blog before. And I’ve run into him a few times. Last time I saw Curtis was at [Democracy XChange](https://www.democracyxchange.org/). I’ll see him again next time.
 
-Funny how you don’t think about how anything you do could be for the last time until it hits you.
-
-Funny how we feel the impacts of our predecessors even and *especially* once they’re gone.
-
-Funny how I recently started [my own project](/interviews) to document civic tech in Toronto.
-
-Funny how the timing works out.
-
+Funny how you don’t think about how anything you do could be for the last time until it hits you.  
+Funny how we feel the impacts of our predecessors even and *especially* once they’re gone.  
+Funny how I recently started [my own project](/interviews) to document civic tech in Toronto.  
+Funny how the timing works out.  
 Funny thing, life.
+{: .nowrap}
 
 [^1]: I migrated there from [Mordhau](https://www.youtube.com/watch?v=NQ_F1BtscWk), a less forgiving, less popular game simultaneously full of both more memelords and tryhards than Chivalry.
 
