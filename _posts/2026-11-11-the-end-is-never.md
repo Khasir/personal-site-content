@@ -26,7 +26,7 @@ I have been fortunate enough to not have had anyone in my close friends or famil
 
 During my masters, I stayed with a senior as part of a homeshare program. She should be past her mid-80s now. I’ve been meaning to visit her sometime. I mail a Christmas card to her every year. She didn’t reply last year.
 
-More recently, a trailblazer of the Canadian civic tech community passed away suddenly a few weeks ago. Curtis McCord completed his PhD by studying civic tech in the Canadian context, with two of the three main parts of [his thesis](https://www.proquest.com/openview/a25597d67991596d22f2a4e01d326408/1?pq-origsite=gscholar&cbl=18750&diss=y) focusing on Civic Tech Toronto. I’ve run into him a few times. Last time I saw Curtis was at [Democracy XChange](https://www.democracyxchange.org/). I’ll see him again next time.
+More recently, a trailblazer of the Canadian civic tech community passed away suddenly a few weeks ago. Curtis McCord completed his PhD by studying civic tech in the Canadian context, with two of the three main parts of [his thesis](https://www.proquest.com/openview/a25597d67991596d22f2a4e01d326408/1?pq-origsite=gscholar&cbl=18750&diss=y) focusing on Civic Tech Toronto. I've cited him on this blog before. And I’ve run into him a few times. Last time I saw Curtis was at [Democracy XChange](https://www.democracyxchange.org/). I’ll see him again next time.
 
 Funny how you don’t think about how anything you do could be for the last time until it hits you.
 
