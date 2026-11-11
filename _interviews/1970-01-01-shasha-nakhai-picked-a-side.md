@@ -72,7 +72,7 @@ So, I think that's kind of a common thread. Even *The Sandbox*. It's the interse
 **Khasir:**  
 I think that's an important message. So many people are just living their lives. It's very easy to lose the forest for the trees and just focus on your own thing, and not realize there are wider forces at play and shaping our lives that you have no direct control over.
 
-So, you make a lot of films—you’ve transitioned from being a journalist into a filmmaker. We were talking a bit about that on our walk here to Grange Park. Was that something that you knew you always wanted to go into, moving into documentaries and cataloguing life? Or was that something that you stumbled upon?
+So, you make a lot of films—you’ve transitioned from being a journalist into a filmmaker. We were talking a bit about that on our walk here. Was that something that you knew you always wanted to go into, moving into documentaries and cataloguing life? Or was that something that you stumbled upon?
 
 **Shasha:**  
 I've always been interested in human rights and politics and socio-political issues. But I think what made me really want to do journalism was when the Iraq War was happening. I just thought it was fascinating how, when you shine a light on something and cover it in the news, it can have a tremendous impact.
@@ -97,7 +97,7 @@ I mean, I have a very personal project I'm in development on, so that's even mor
 {% floating title="**overlapping film and tech**" %}
 
 **Khasir:**  
-Coming back to the idea of Civic Tech—I think a lot of people forget about the civic side of civic tech, and they think only of the tech side. And personally, I consider what you are doing to be civic tech.
+Coming back to the idea of civic tech—I think a lot of people forget about the *civic* side of civic tech, and they think only of the tech side. And personally, I consider what you are doing to be civic tech.
 
 **Shasha:**  
 Which is hilarious, because I'm not a tech person. I'm probably the least technologist at Technologist for Democracy. \[*laughs*]
