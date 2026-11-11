@@ -9,6 +9,7 @@ audio_file:
 audio_description:
 comments: true
 hidden: false
+comment_hints:
 ---
 <!-- 
 >>>> Blockquotes <<<<
@@ -40,4 +41,11 @@ Toggle body
 {% floating title="This is the note title" text="This is the note body" %}
 Paragraph text
 {% endfloating %}
+
+>>>> No-wrap paragraphs <<<<
+This is some text.
+{: .nowrap}
+
+And this is some more.
+{: .nowrap-centre}
 -->
