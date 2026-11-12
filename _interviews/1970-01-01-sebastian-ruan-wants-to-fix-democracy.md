@@ -54,7 +54,7 @@ So, civic technology—it's interesting because I run [Civic Tech 101](https://d
 
 And I found this distinction early on, that it doesn't mean you're building something for government. There's a distinction between *government tech*, which improves the efficiency and ability for the public service to deliver to the public, and *civic tech*, which is more of building technology directly for residents or citizens. At least, I think that’s how this community defines it.
 
-For me personally, I really value the democracy aspect. Ilya, who's also a member of Civic Tech Toronto, has a really good way of saying this: we're building democratic infrastructure. He works on the [Civic Dashboard](https://civicdashboard.ca/) project, I was working on [Polis](https://pol.is/), and all of these things are just platforms or tools to improve the way that we interface with democracy.
+For me personally, I really value the democracy aspect. [Ilya](/notes/coming-soon), who's also a member of Civic Tech Toronto, has a really good way of saying this: we're building democratic infrastructure. He works on the [Civic Dashboard](https://civicdashboard.ca/) project, I was working on [Polis](https://pol.is/), and all of these things are just platforms or tools to improve the way that we interface with democracy.
 
 And that's the thing that I get excited about. So that's how I define it. Which is maybe more specific than what all of Civic Tech Toronto as a community defines *civic tech*.
 
